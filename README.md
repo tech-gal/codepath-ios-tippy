@@ -1,2 +1,2 @@
 # codepath-ios-tippy
-ios tip calculator
+codepath tip calculation app
